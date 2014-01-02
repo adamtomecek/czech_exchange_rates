@@ -1,4 +1,9 @@
 czech_exchange_rates
 ====================
+Czech exchange rates gem
 
-Czech exchange rates grabbing gem
+Usage
+-----
+```ruby
+CzechExchangeRates.get_exchange_rate('EUR', '1.1.2014')
+```

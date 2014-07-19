@@ -2,6 +2,13 @@ czech_exchange_rates
 ====================
 Czech exchange rates gem
 
+Installing
+----------
+
+```ruby
+gem 'czech_exchange_rates'
+```
+
 Usage
 -----
 ```ruby
